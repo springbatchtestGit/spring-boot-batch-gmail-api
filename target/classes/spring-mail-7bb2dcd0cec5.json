@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "spring-mail",
+  "private_key_id": "7bb2dcd0cec5d26e018aabb1bb021d791690b523",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeSUQT35cOIfx2\n8sqXW5moY6+5FsTfUEENrDuQNP0v0mw/cNpTTRd/+XeFKDAEyzZ4ieZjPPSccEuo\nxrp37gnM+losQj8gjn7krC3WSXcMwIH/zXRfPrb5V9GTsLVOG1TJcwSjwSDSxqWo\nRGNptdSy8wQp83+iIDxo1QvQaCVsHlCtpUq3WdiB09xf9/YKIHXjaU2PbpqKsa2Q\n+e16gHivocUT1UFs7zwbMrAviiYL0ha62bml0F/EO6kqC96pVn7cMwt50QfgQnQe\ncUNKCrieI+82v+0BeEK0V/dFyFbLjeLuvRug1+7qJqZtAYrZvm+kAMDPn2VOOd+j\n9Qr33pGhAgMBAAECggEACJ36JU9+VJLNa5et0iNL+wqrmzAd+VRP/lO6jbq8xTji\nPhVBkC25vPSn/j6hApnM4NoNCf5cXhSPoeQTwbSv9udIN8bxfdm+wb834vBumT9K\nXyfgZnuuZWZTrq586FV86QH90NZnmDdKochQqzAZdhaHIFY1GW6XgKjciEorLgwQ\ng7W7UzRrUggIWnk0fPhOUpJb/epplb0IdQqq/KfA9hXAXZwVbEI7MrbpMrvZxtEo\nSXnej93DSLr+52O5vWMgS0gqq8ztCM8B+lFtej+i3c8p04vPeCen4eoF5AUcYDFp\nPSpd+BLsC0dOcK5B+V5zAT+2e+KcEzsy9TMWt59+EwKBgQDRsOqNRU1T7WNYJqWm\nQMsX1/3h+tEyhTDJAAFp45nCaEeYsXCLqljvoaitknHq6JzI3hC0JBonpmNLJDM2\nZWPlIdGx35FNV/BDgJKh2i8vE6NbT5tkGl6g8zSvu/I0jyxy+rfhsrUXiwPq1Y3z\nNRDyQN+HFs2S0khSyuDKPJF5owKBgQDBPiA7JePqkTWRf2U1jGgcDaSQ+sXi8je0\nF6D2WI4gIwS1Qv5URafJE4804K6G+sTD6MGzNsFXi2cYxCjqMpfeZsqvhzc2xEFL\nrgVLumyEL/wT2JRDi3ObQX9T4HD4d1ox+kqHf6U+FR88st7f7798F+r2zlOc5YsM\n7tcymu0D6wKBgQCpb+dXV9RwKLXJmRDpEhoJnkJLw7wesnkFMbfytDKeYFzaCScD\n9BYBLAN8nYTnaCaoOKgOp81qlIxPP2USY0Mg9v7WV+y1LoW6Rb42gnL1+0xYkC7j\n6Frmex7rkVbZGYe1MNo8yYaDC5WSwBT/nLWgysLUCZz7Mme2XrDdOavjOQKBgHt2\nBMOlZqND2PS3buMybIWX1c9m2K0xUZN3ETiyxUMU/HoObk1LH3KhU3pWHktQxgvg\nlni4f/g9sUWqdfWDE3JdPBu/CPCtnIYMjYefeJtPyP6o/bjVzKuhwgbFu4eTQYXy\nwlElpV4vwoBWS3zJQQ64fT7n/ZWdNiSyJ71GLC23AoGBALskoj/QgTlMdsHaA8ZY\nfYiYWCTCETluSCT6g6OnPNMNY0YS1PN8H0BpmMLmPAyocgRqSHtqlmkdx9CGI3Rl\n2qMK9gCI5IaHupXq9HgZuB/90aAVw6bTk3VLwP3IJ2P1bcrfik5y+HJxXZ2DyCS3\nz+Ryjl2P5FM3FEVNDLuYzCWl\n-----END PRIVATE KEY-----\n",
+  "client_email": "spring-mail-service@spring-mail.iam.gserviceaccount.com",
+  "client_id": "109010588008919392246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spring-mail-service%40spring-mail.iam.gserviceaccount.com"
+}
+
+
